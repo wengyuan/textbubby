@@ -1,6 +1,6 @@
 package textbubby;
 
-
+//some change
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
@@ -16,6 +16,7 @@ import java.util.Scanner;
  *	Users can add and delete some texts from file, display and clear all the text in the file and exit the program. 
  *	Users have to enter correct command format in order to perform the right command.
  *
+ *
  *	Some assumptions:
  *	When commands other than "display", "delete", "add", "clear", "exit" are typed by user, message is prompted to inform user type in other command
  *	When the index user typed in for deleting is greater than total number of text line in the file, a error message will be prompted (invalid command)
@@ -24,7 +25,7 @@ import java.util.Scanner;
  *	When exit command is typed by user, file close message is prompted and file is saved to the disk.This is to reduce the program complexity and runtime.
  *	
  *
- *
+ *  
  * @author Weng Yuan
  * Tutorial Group: W10
  */
