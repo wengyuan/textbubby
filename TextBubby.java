@@ -1,7 +1,5 @@
 package textbubby;
 
-//some change
-
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 
